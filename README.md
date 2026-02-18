@@ -1,7 +1,7 @@
 # Kai: Your Second Self on macOS
 
 <p align="center">
-  <img src="hero_banner.jpg" alt="Kai" width="100%">
+  <img src="KAI.jpeg" alt="Kai" width="100%">
 </p>
 
 > A native AI desktop environment with persistent semantic memory, 118 built-in skills, voice control, and automation workflows. Local-first. Privacy by architecture.
