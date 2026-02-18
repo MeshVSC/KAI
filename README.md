@@ -1,7 +1,7 @@
 # Kai: Your Second Self on macOS
 
 <p align="center">
-  <img src="Assets/hero_banner.jpg" alt="Kai" width="100%">
+  <img src="hero_banner.jpg" alt="Kai" width="100%">
 </p>
 
 > A native AI desktop environment with persistent semantic memory, 118 built-in skills, voice control, and automation workflows. Local-first. Privacy by architecture.
@@ -48,18 +48,25 @@ Kai supports both cloud and local AI models:
 
 ## Plugin Ecosystem
 
-**19 AgentPlugins** (direct tool-calling):
-- **Media**: Video compression/conversion, image resize/crop/OCR/background removal, GIF creation.
-- **Documents**: PDF merge/split/compress/OCR/protect.
-- **Web**: Full-page screenshots, URL tracing, QR code generation and reading.
-- **Data**: CSV/JSON/Excel conversion, file hashing, archive management.
-- **Productivity**: Apple Notes, Calendar, Reminders, Contacts.
-- **System**: AppleScript control, shell commands, Shortcuts, browser automation.
+**118+ plugins across 21 categories.** All disabled by default — enable only what you need. Credentials stored in macOS Keychain.
 
-**95+ IntegrationPlugins** (authenticated services across 21 categories):
-- Communication, Development, AI/ML, Finance, Smart Home, Cloud & DevOps, and more.
-
-All plugins default to **disabled**. Enable only what you need. Credentials stored in macOS Keychain.
+| Category | Plugins |
+|:---|:---|
+| **AI/ML** | Anthropic, OpenAI, DeepSeek, Qwen, XAI, ZAI, Replicate, HuggingFace, Stable Diffusion, ElevenLabs, Whisper, LM Studio, Ollama |
+| **Communication** | Discord, Slack, Teams, Twilio, WhatsApp |
+| **Social** | Twitter, Instagram, Threads, LinkedIn, Reddit, Mastodon, TikTok |
+| **Productivity** | Apple Notes, Apple Calendar, Apple Reminders, Contacts, Notion, Obsidian, Todoist, Trello, Airtable, Google Drive, Google Sheets, Google Calendar, OneDrive, Dropbox, Translation |
+| **Development** | GitHub, GitLab, Bitbucket, Jira, Linear, Confluence, Figma, Docker, SSH, Database, Supabase, Firebase, Vercel, Netlify |
+| **Cloud & DevOps** | AWS, Google Cloud, Azure, Cloudflare, DigitalOcean |
+| **CRM & Marketing** | HubSpot, Salesforce, Mailchimp, SendGrid |
+| **Finance** | Stripe, PayPal, Plaid, QuickBooks, CoinGecko |
+| **Smart Home** | SmartThings, Home Assistant, Philips Hue |
+| **Media** | Spotify, Apple Music, YouTube, Plex |
+| **Monitoring** | Sentry, PagerDuty, UptimeRobot, Datadog |
+| **Browser** | Brave, Comet, Safari |
+| **Utilities** | Weather, Wolfram, Web, Maps, Stickies, Shortcuts, Zapier, N8N, IFTTT, Make |
+| **Design** | Canva |
+| **Core Tools** | FileData, PDF, Web Utilities, Video, Image Enhanced, Gaming (Steam) |
 
 ---
 
